@@ -1,7 +1,7 @@
 
-# Pytho Loops and Functions
+# Python Loops and Functions
 
-## Description
+## Overview
 This assignment includes three Python programs covering while loops, for loops, control statements, and functions.
 
 ## Programs
