@@ -42,4 +42,3 @@ This assignment includes three Python programs covering while loops, for loops, 
 - Applying control statements in loops.
 - Creating and calling user-defined functions.
 - Using Python to solve practical programming problems.
-- 
